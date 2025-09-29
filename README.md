@@ -1,2 +1,3 @@
-# hello
-PSYCH 251 assignment
+# Hello
+This is an assignment for PSYCH 251: Experimental methods to learn how to use git and github.
+Appears to be more difficult than I thought it would be...
