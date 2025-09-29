@@ -1,0 +1,17 @@
+---
+title: "pset0.R"
+author: "Micaela Bonilla"
+date: "2025-09-29"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+New file
+
+```{r}
+print("hello world")
+```
+
